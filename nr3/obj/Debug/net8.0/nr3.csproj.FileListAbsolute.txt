@@ -1,0 +1,14 @@
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\nr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\nr3.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\nr3.AssemblyInfo.cs
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\nr3.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\nr3\bin\Debug\net8.0\nr3.exe
+C:\Users\gusta\Desktop\nr3\bin\Debug\net8.0\nr3.deps.json
+C:\Users\gusta\Desktop\nr3\bin\Debug\net8.0\nr3.runtimeconfig.json
+C:\Users\gusta\Desktop\nr3\bin\Debug\net8.0\nr3.dll
+C:\Users\gusta\Desktop\nr3\bin\Debug\net8.0\nr3.pdb
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\nr3.dll
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\refint\nr3.dll
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\nr3.pdb
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\nr3.genruntimeconfig.cache
+C:\Users\gusta\Desktop\nr3\obj\Debug\net8.0\ref\nr3.dll

@@ -1,0 +1,14 @@
+C:\Users\gusta\Desktop\øvelser\bin\Debug\net8.0\øvelser.exe
+C:\Users\gusta\Desktop\øvelser\bin\Debug\net8.0\øvelser.deps.json
+C:\Users\gusta\Desktop\øvelser\bin\Debug\net8.0\øvelser.runtimeconfig.json
+C:\Users\gusta\Desktop\øvelser\bin\Debug\net8.0\øvelser.dll
+C:\Users\gusta\Desktop\øvelser\bin\Debug\net8.0\øvelser.pdb
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\øvelser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\øvelser.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\øvelser.AssemblyInfo.cs
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\øvelser.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\øvelser.dll
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\refint\øvelser.dll
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\øvelser.pdb
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\øvelser.genruntimeconfig.cache
+C:\Users\gusta\Desktop\øvelser\obj\Debug\net8.0\ref\øvelser.dll

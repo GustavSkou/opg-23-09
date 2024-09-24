@@ -1,0 +1,14 @@
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\nr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\nr2.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\nr2.AssemblyInfo.cs
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\nr2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\nr2\bin\Debug\net8.0\nr2.exe
+C:\Users\gusta\Desktop\nr2\bin\Debug\net8.0\nr2.deps.json
+C:\Users\gusta\Desktop\nr2\bin\Debug\net8.0\nr2.runtimeconfig.json
+C:\Users\gusta\Desktop\nr2\bin\Debug\net8.0\nr2.dll
+C:\Users\gusta\Desktop\nr2\bin\Debug\net8.0\nr2.pdb
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\nr2.dll
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\refint\nr2.dll
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\nr2.pdb
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\nr2.genruntimeconfig.cache
+C:\Users\gusta\Desktop\nr2\obj\Debug\net8.0\ref\nr2.dll
